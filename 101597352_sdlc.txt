@@ -1,0 +1,1 @@
+DevOps is important in the software development lifecycle because it helps developers and IT teams work together, automate repetitive tasks, find problems earlier, and release software more reliably.
