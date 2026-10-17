@@ -1,0 +1,1 @@
+COMP3104 DevOps is a course at George Brown College taught by Pritesh Patel. The course covers Git, GitHub, automation, and how developers work together to build and deliver software. Students also learn about tools like Docker and GitHub Actions.
