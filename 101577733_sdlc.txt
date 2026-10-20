@@ -1,0 +1,4 @@
+DevOps is very important in the software development lifecycle.
+It makes teh software development lifecycle more efficient.
+
+Automation cuts out the menial tasks that software development teams needs to complete. Furthermore automated testing is able to prevent mistakes from happening, and saves the time that would normally be needed to resolve issues. Developers can spend more time on creating a better product.
