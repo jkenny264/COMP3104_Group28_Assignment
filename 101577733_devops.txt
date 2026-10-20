@@ -3,3 +3,9 @@ DevOps
 
 Course Code:
 COMP 3104
+
+Professor:
+Pritesh Patel
+
+Description:
+DevOps COMP 3104 is a wonderful course taught at George Brown Polytechnic by Professor Pritesh Patel. This course teaches students about Devops Technologies.
