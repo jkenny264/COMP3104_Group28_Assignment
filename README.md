@@ -2,6 +2,7 @@
 
 ## Group Members
 - **Member:** Mackenzie (101597352) - [GitHub](https://github.com/mcknz-dev)
+- **Member:** Derek Page (101590623) - [GitHub](https://github.com/derekpage)
 
 ## Project Description
 This repository contains our COMP3104 DevOps group assignment at George Brown College. The project demonstrates version control, Git branching, collaboration through pull requests, and continuous integration using GitHub Actions.
