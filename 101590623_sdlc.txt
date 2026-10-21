@@ -1,1 +1,1 @@
-Devops is a key component in the software development lifecycle. As development teams get larger and projects become more sophisticated and ambitious, there is a very strong need to keep development pipeline's working efficiently and effectively.
+Devops is a key component in the software development lifecycle. As development teams get larger and projects become more sophisticated and ambitious, there is a very strong need to keep the development pipelines working efficiently and effectively.
