@@ -1,0 +1,1 @@
+COMP3104 is a computer science course all about DevOps. It aims to teach us the best practices on how to efficiently manage the development and deployment side of the software development lifecycle.
