@@ -34,3 +34,19 @@ Automated checks support quality, but passing checks do not prove
 that software is free of defects. Their usefulness depends on what
 they test, so teams still need thoughtful reviews and appropriate
 manual testing.
+
+Release Practices and Operational Feedback:
+
+Reliable releases depend on repeatable deployment steps, appropriate
+configuration, and a plan for recovering from failures. Continuous
+delivery keeps validated changes ready for release, while continuous
+deployment automatically releases changes that pass the required checks.
+
+After deployment, logs, monitoring, and user feedback help teams
+understand how the software behaves in practice. These observations
+can reveal defects, performance problems, or changing user needs
+that should inform future planning.
+
+DevOps connects this operational feedback to ongoing development.
+The lifecycle continues after a release as teams maintain the software,
+respond to incidents, and improve subsequent versions.
