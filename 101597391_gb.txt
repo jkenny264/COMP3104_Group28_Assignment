@@ -12,3 +12,14 @@ and DevOps.
 This group assignment connects technical learning with collaboration.
 It requires us to manage our own contributions while integrating
 them into a shared GitHub repository.
+
+Applied Learning:
+
+My Computer Programming and Analysis coursework gives me opportunities
+to apply concepts through labs and assignments. Building applications
+involves translating requirements into code, testing the results,
+and troubleshooting problems.
+
+Working across different courses also shows how these skills connect.
+An application can combine a user interface, an API, and a database,
+while Git records changes throughout development.
