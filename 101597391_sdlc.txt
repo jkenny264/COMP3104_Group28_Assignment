@@ -1,0 +1,52 @@
+DevOps in the Software Development Lifecycle
+Contributor: Jocelyn Brown
+Student ID: 101597391
+
+Overview:
+
+The software development lifecycle includes planning, requirements
+analysis, design, implementation, testing, deployment, and maintenance.
+Teams may revisit these activities as requirements change and feedback
+reveals opportunities for improvement.
+
+DevOps supports collaboration throughout this lifecycle by connecting
+development and operational responsibilities. Teams consider how software
+will be tested, released, monitored, and maintained while designing
+and implementing it.
+
+Version control provides a shared history of changes. Automation makes
+repeatable tasks more consistent, while feedback helps teams identify
+problems and decide what to improve next.
+
+Continuous Integration and Early Feedback:
+
+Continuous integration encourages developers to integrate changes
+frequently and check them automatically. Depending on the project,
+a pipeline can run tests, check code style, and verify that the
+application builds successfully.
+
+Early feedback helps developers identify problems while the related
+changes are still small and easier to investigate. Teams can use
+pipeline results alongside code reviews to decide whether a change
+is ready to merge.
+
+Automated checks support quality, but passing checks do not prove
+that software is free of defects. Their usefulness depends on what
+they test, so teams still need thoughtful reviews and appropriate
+manual testing.
+
+Release Practices and Operational Feedback:
+
+Reliable releases depend on repeatable deployment steps, appropriate
+configuration, and a plan for recovering from failures. Continuous
+delivery keeps validated changes ready for release, while continuous
+deployment automatically releases changes that pass the required checks.
+
+After deployment, logs, monitoring, and user feedback help teams
+understand how the software behaves in practice. These observations
+can reveal defects, performance problems, or changing user needs
+that should inform future planning.
+
+DevOps connects this operational feedback to ongoing development.
+The lifecycle continues after a release as teams maintain the software,
+respond to incidents, and improve subsequent versions.

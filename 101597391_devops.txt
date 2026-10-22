@@ -1,0 +1,47 @@
+COMP3104 DevOps
+Contributor: Jocelyn Brown
+Student ID: 101597391
+
+Course Overview:
+
+COMP3104 explores practices that connect software development with
+operations. DevOps combines collaboration, automation, and interpersonal 
+feedback to help teams deliver and maintain software reliably.
+
+This assignment focuses on version control with Git, collaboration
+through GitHub, and continuous integration using GitHub Actions.
+Each member contributes through an individual branch, records changes
+in meaningful commits, and integrates their work through a pull request.
+
+These activities demonstrate how teams can coordinate changes while
+maintaining a shared project history.
+
+Version Control and Collaboration:
+
+Git records changes as commits, creating a history that developers can
+inspect and compare. Clear commit messages explain the purpose of each
+change and help teammates understand how the project developed.
+
+Branches allow contributors to work independently. In this assignment,
+each member uses a branch named STUDENTID-Name and pushes it to the
+shared GitHub repository.
+
+A pull request presents proposed changes for review before merging.
+Fetching retrieves remote updates, while merging integrates changes
+into the current branch. If edits conflict, contributors must review
+the affected content and resolve the conflict before completing the merge.
+
+Continuous Integration with GitHub Actions:
+
+Our repository defines its CI workflow in .github/workflows/ci.yml.
+The workflow runs when a push occurs and uses an ubuntu-latest runner.
+It checks out the repository with actions/checkout@v4 and prints
+information about the triggering event, runner, and repository.
+
+This workflow demonstrates automated execution and provides a visible
+success or failure result in GitHub Actions. It does not currently run
+application tests, build an application, or deploy software.
+
+A larger project could extend this workflow with automated tests,
+linting, and build checks. These checks would give contributors feedback
+on their changes before those changes are released.
