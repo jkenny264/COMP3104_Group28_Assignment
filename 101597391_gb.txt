@@ -1,0 +1,14 @@
+George Brown Polytechnic
+Contributor: Jocelyn Brown
+Student ID: 101597391
+
+Overview:
+
+George Brown Polytechnic is the institution where I study Computer
+Programming and Analysis. My coursework includes software development,
+database design and creation, web development, mobile application development,
+and DevOps.
+
+This group assignment connects technical learning with collaboration.
+It requires us to manage our own contributions while integrating
+them into a shared GitHub repository.
