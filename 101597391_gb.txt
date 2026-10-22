@@ -23,3 +23,15 @@ and troubleshooting problems.
 Working across different courses also shows how these skills connect.
 An application can combine a user interface, an API, and a database,
 while Git records changes throughout development.
+
+Collaboration and Career Preparation:
+
+Group projects provide opportunities to practise communication,
+divide responsibilities, and review contributions from other developers.
+Clear documentation helps teammates understand the project and
+continue working without relying on one person for every explanation.
+
+In this assignment, individual branches let us develop our contributions
+separately. Pull requests bring those changes together for review before
+they are merged into main. These practices support teamwork and
+accountability in software development.
