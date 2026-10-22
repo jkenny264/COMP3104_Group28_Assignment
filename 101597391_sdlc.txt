@@ -17,3 +17,20 @@ and implementing it.
 Version control provides a shared history of changes. Automation makes
 repeatable tasks more consistent, while feedback helps teams identify
 problems and decide what to improve next.
+
+Continuous Integration and Early Feedback:
+
+Continuous integration encourages developers to integrate changes
+frequently and check them automatically. Depending on the project,
+a pipeline can run tests, check code style, and verify that the
+application builds successfully.
+
+Early feedback helps developers identify problems while the related
+changes are still small and easier to investigate. Teams can use
+pipeline results alongside code reviews to decide whether a change
+is ready to merge.
+
+Automated checks support quality, but passing checks do not prove
+that software is free of defects. Their usefulness depends on what
+they test, so teams still need thoughtful reviews and appropriate
+manual testing.
