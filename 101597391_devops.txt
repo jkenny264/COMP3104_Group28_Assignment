@@ -15,3 +15,18 @@ in meaningful commits, and integrates their work through a pull request.
 
 These activities demonstrate how teams can coordinate changes while
 maintaining a shared project history.
+
+Version Control and Collaboration:
+
+Git records changes as commits, creating a history that developers can
+inspect and compare. Clear commit messages explain the purpose of each
+change and help teammates understand how the project developed.
+
+Branches allow contributors to work independently. In this assignment,
+each member uses a branch named STUDENTID-Name and pushes it to the
+shared GitHub repository.
+
+A pull request presents proposed changes for review before merging.
+Fetching retrieves remote updates, while merging integrates changes
+into the current branch. If edits conflict, contributors must review
+the affected content and resolve the conflict before completing the merge.
