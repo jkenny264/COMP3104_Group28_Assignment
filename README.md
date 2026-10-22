@@ -8,8 +8,8 @@ meaningful commits, pull requests, and continuous integration.
 | Member | Student ID | Role | GitHub |
 |---|---|---|---|
 | Jocelyn Brown | 101597391 | Group Lead | [jocelynbrown96](https://github.com/jocelynbrown96) |
-| John | 101577733 | Member and repository owner | [jkenny264](https://github.com/jkenny264) |
-| Mackenzie | 101597352 | Member | [mcknz-dev](https://github.com/mcknz-dev) |
+| John Kenny | 101577733 | Member and repository owner | [jkenny264](https://github.com/jkenny264) |
+| Mackenzie Hodgson | 101597352 | Member | [mcknz-dev](https://github.com/mcknz-dev) |
 | Derek Page | 101590623 | Member | [derekpage](https://github.com/derekpage) |
 
 ## Project Overview
