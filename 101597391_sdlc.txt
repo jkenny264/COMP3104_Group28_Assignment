@@ -1,0 +1,19 @@
+DevOps in the Software Development Lifecycle
+Contributor: Jocelyn Brown
+Student ID: 101597391
+
+Overview:
+
+The software development lifecycle includes planning, requirements
+analysis, design, implementation, testing, deployment, and maintenance.
+Teams may revisit these activities as requirements change and feedback
+reveals opportunities for improvement.
+
+DevOps supports collaboration throughout this lifecycle by connecting
+development and operational responsibilities. Teams consider how software
+will be tested, released, monitored, and maintained while designing
+and implementing it.
+
+Version control provides a shared history of changes. Automation makes
+repeatable tasks more consistent, while feedback helps teams identify
+problems and decide what to improve next.
