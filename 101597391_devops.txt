@@ -1,0 +1,17 @@
+COMP3104 DevOps
+Contributor: Jocelyn Brown
+Student ID: 101597391
+
+Course Overview:
+
+COMP3104 explores practices that connect software development with
+operations. DevOps combines collaboration, automation, and interpersonal 
+feedback to help teams deliver and maintain software reliably.
+
+This assignment focuses on version control with Git, collaboration
+through GitHub, and continuous integration using GitHub Actions.
+Each member contributes through an individual branch, records changes
+in meaningful commits, and integrates their work through a pull request.
+
+These activities demonstrate how teams can coordinate changes while
+maintaining a shared project history.
