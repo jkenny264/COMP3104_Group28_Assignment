@@ -30,3 +30,18 @@ A pull request presents proposed changes for review before merging.
 Fetching retrieves remote updates, while merging integrates changes
 into the current branch. If edits conflict, contributors must review
 the affected content and resolve the conflict before completing the merge.
+
+Continuous Integration with GitHub Actions:
+
+Our repository defines its CI workflow in .github/workflows/ci.yml.
+The workflow runs when a push occurs and uses an ubuntu-latest runner.
+It checks out the repository with actions/checkout@v4 and prints
+information about the triggering event, runner, and repository.
+
+This workflow demonstrates automated execution and provides a visible
+success or failure result in GitHub Actions. It does not currently run
+application tests, build an application, or deploy software.
+
+A larger project could extend this workflow with automated tests,
+linting, and build checks. These checks would give contributors feedback
+on their changes before those changes are released.
